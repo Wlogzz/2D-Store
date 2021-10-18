@@ -1,0 +1,12 @@
+Fronted Strapi - 2D Store
+https://ecommerce2dstore-mintic.netlify.app/
+
+Backend Strapi - 2D Store
+https://ecommerce2dstore-mintic.herokuapp.com/admin/auth/login
+Usuario: wlogz@hotmail.com
+Contraseña: @Zxtr22l*
+
+diego valderrama
+mauricio sanchez
+jhonatan castillo
+fernando zapata
